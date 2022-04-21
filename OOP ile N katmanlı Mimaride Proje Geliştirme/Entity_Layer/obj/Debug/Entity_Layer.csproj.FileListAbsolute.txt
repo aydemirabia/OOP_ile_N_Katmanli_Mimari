@@ -1,0 +1,6 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\OOP ile N katmanlı Mimaride Proje Geliştirme\Entity_Layer\bin\Debug\Entity_Layer.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\OOP ile N katmanlı Mimaride Proje Geliştirme\Entity_Layer\bin\Debug\Entity_Layer.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\OOP ile N katmanlı Mimaride Proje Geliştirme\Entity_Layer\obj\Debug\Entity_Layer.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\OOP ile N katmanlı Mimaride Proje Geliştirme\Entity_Layer\obj\Debug\Entity_Layer.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\OOP ile N katmanlı Mimaride Proje Geliştirme\Entity_Layer\obj\Debug\Entity_Layer.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\OOP ile N katmanlı Mimaride Proje Geliştirme\Entity_Layer\obj\Debug\Entity_Layer.pdb
